@@ -13,8 +13,6 @@
 
 // console.log(sumarElementos([1, 2, 3, 4]));
 
-
-
 let numeros = [1,2,3,4,5];
 let suma = 0;
 
